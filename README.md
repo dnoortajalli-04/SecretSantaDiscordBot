@@ -26,7 +26,7 @@ cd secret-santa-bot
 
 ### 2. Install Dependencies
 ```bash
-npm install discord.js
+yarn
 ```
 
 ### 3. Configure the Bot
